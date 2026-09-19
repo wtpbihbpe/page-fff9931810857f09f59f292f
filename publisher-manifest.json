@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "38541dfbe5405d1e74d123bf",
+  "owner": "wtpbihbpe",
+  "repo": "page-fff9931810857f09f59f292f",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fff9931810857f09f59f292f",
+      "a": "矢矧网络",
+      "b": "ClashX官方下载",
+      "entity": "矢矧网络",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "53559ef24aa229304546fb631c7241d524c878a9fc5f8424d93a4862bde98524",
+      "content": {
+        "primary_entity": "矢矧网络",
+        "keyword1": "矢矧网络",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_DESCRIPTION": "，矢矧网络提供三档海外加速套餐，每月 100GB 到 1000GB 流量，覆盖 3 台到 20 台设备同时在线。基础版适合个人轻量使用，旗舰版面向流媒体与游戏场景，团队版满足多设备与企业定制需求。按年付更划算，支持主流客户端订阅配置。",
+          "AI_HERO_SUBTITLE": "矢矧网络：按需选套餐，多端配置",
+          "AI_HERO_INTRO": "矢矧网络为个人和团队提供海外网络加速服务，套餐按流量和在线设备数区分。基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线；团队版每月 1000GB，支持 20 台设备。选好套餐后，在对应客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "矢矧网络套餐与设备适配",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "支持多平台客户端订阅配置",
+          "AI_FEATURES_TITLE": "矢矧网络选型要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度，快速匹配合适的套餐。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 配 3 台设备，旗舰版 300GB 配 5 台，团队版 1000GB 配 20 台。",
+          "AI_FEATURE_TITLE_2": "设备需求匹配",
+          "AI_FEATURE_TEXT_2": "手机、电脑和平板按在线设备数计入，多人共享选团队版更合适。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付均可，年付价格为月付的十个月水平，长期使用更省。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLIENTS_INTRO": "根据你的设备系统选择对应客户端，并参照其文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。流量、设备数和线路逐档提升，旗舰版含 IPLC 专线与优先工单支持。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、导入订阅三步完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据流量和在线设备数，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所需客户端类型，核对同时在线设备上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在选定客户端中依其文档添加订阅地址，刷新节点后即可连接。",
+          "AI_CLOSING_TITLE": "选对套餐，多端畅连",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，按你的使用场景选定后开始配置。",
+          "AI_FAQ_ANSWER_1": "矢矧网络是一款面向跨境访问与加速的网络服务工具，通过订阅方式在客户端中导入配置，实现网络访问优化。",
+          "AI_FAQ_ANSWER_2": "在购买页面选择基础版、旗舰版或团队版套餐，完成支付后获取订阅链接，用于在客户端中导入。",
+          "AI_FAQ_ANSWER_3": "购买后可查看各客户端导入订阅的说明文档，Clash、Shadowrocket、v2rayN 等可在其对应配置文件中导入订阅链接。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可在同一订阅下多设备登录使用。",
+          "AI_FAQ_ANSWER_5": "建议根据每月的流量需求和上网设备数量选择。基础版适合轻度使用，旗舰版兼顾性能与设备数，团队版适合多人共享或企业场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "矢矧网络是什么？",
+          "AI_FAQ_QUESTION_2": "如何购买和开始使用矢矧网络？",
+          "AI_FAQ_QUESTION_3": "矢矧网络支持哪些客户端？",
+          "AI_FAQ_QUESTION_4": "矢矧网络支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_5": "矢矧网络不同套餐怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fc858559a6295a858c21e5117a1645f6df3733640eedf6ea7cab300ea2396e07",
+    "sitemap.xml": "2d58c1823accae4f44c3cc570246faf7c1a915e63120e533a02038a6dd5e1828",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ee8949f61e55209dc2eeaed391dc99aa6e7fc9d8cd12732b3870debeaa4f434d"
+}
